@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Лесник",
+        "executor": "КИШ",
+        "information": "Рокк"
+    },
+    {
+        "name": "Хеви метал",
+        "executor": "Хеви",
+        "information": "Метал"
+    }
+]
