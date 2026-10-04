@@ -8,5 +8,10 @@
         "name": "Хеви метал",
         "executor": "Хеви",
         "information": "Метал"
+    },
+    {
+        "name": "1",
+        "executor": "2",
+        "information": "3"
     }
 ]

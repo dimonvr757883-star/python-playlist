@@ -1,6 +1,7 @@
 from playlist import Playlist
 playlist = Playlist("Мой плейлист")
 
+#Главное меню.
 def menu(playlist):
     while True:
         print('\n==Главное меню.==\nМеню действий: ')

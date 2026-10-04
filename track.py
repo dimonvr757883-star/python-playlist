@@ -1,8 +1,8 @@
 class Track:
     def __init__(self, executor, name, information):
-        self.executor = executor
-        self.name = name
-        self.information = information
+        self.executor = executor # автор
+        self.name = name # название трека
+        self.information = information # информация
 
     def to_dict(self):
         return {
